@@ -603,6 +603,7 @@ body {
   line-height: 1.25;
   color: rgba(255, 255, 255, 0.6);
 }
+
 .footer-submit-button {
   display: inline-flex;
   align-items: center;
@@ -610,12 +611,11 @@ body {
   font-size: 16px;
   line-height: 1.8;
   letter-spacing: 0.06em;
-  margin-left: 12px;
-
   padding-bottom: 10px;
   padding-top: 10px;
   padding-left: 29px;
   padding-right: 28px;
+  margin-left: 12px;
 
   background: var(--accent-color);
   color: #ffffff;
@@ -627,7 +627,8 @@ body {
   outline: none;
 }
 
-.icon-submit {
+.icon-submit-svg {
+  margin-left: 10px;
   width: 24px;
   height: 24px;
 }
