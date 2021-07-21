@@ -559,11 +559,6 @@ body {
   margin-bottom: 20px;
 }
 
-.subscription-form {
-  display: flex;
-  align-items: baseline;
-}
-
 .subscription {
   margin-left: 93px;
 }
