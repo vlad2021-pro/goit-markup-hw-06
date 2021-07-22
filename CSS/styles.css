@@ -849,7 +849,10 @@ body {
   background-color: transparent;
 }
 
-.close-svg:focus,
+.close-btn:focus {
+  fill: var(--accent-color);
+}
+
 .close-svg:hover {
   fill: var(--accent-color);
 }
